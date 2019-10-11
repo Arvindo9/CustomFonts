@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="customfontstyle" parent="@android:style/TextAppearance.Small">
+        <item name="android:fontFamily">@font/dismecha_fonts</item>
+    </style>
+
+    <style name="customfontstyleAlex" parent="@android:style/TextAppearance.Small">
+        <item name="android:fontFamily">@font/alex_brush_fonts</item>
+    </style>
+
 </resources>
